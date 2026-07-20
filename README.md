@@ -15,7 +15,7 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I'm **[@your-github-username](https://github.com/your-github-username)**
+- 👋 Hi, I'm **[@RafieQt](https://github.com/RafieQt)**
 - 🎓 Computer Science undergraduate at **AIUB (American International University, Bangladesh)**
 - 🖥️ I'm currently working with **Next.js, React, TypeScript** for frontend development
 - 🗄️ Using **NestJS, Node.js, PostgreSQL, Prisma** for the backend
@@ -48,7 +48,7 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/your-github-username)
 
 ### Frameworks & Libraries:
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express,nestjs,redux)](https://github.com/your-github-username)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/your-github-username)
 
 ### Database & ORM:
 [![Database & ORM](https://skillicons.dev/icons?i=postgres,mongodb,prisma)](https://github.com/your-github-username)
