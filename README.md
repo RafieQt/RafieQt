@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="../banner.png" alt="Taj Uddin Ahmed Rafi banner">
+<img src="./resources/banner.png" alt="Taj Uddin Ahmed Rafi banner">
 
 <br/>
 
