@@ -63,9 +63,9 @@
 
 
 
-### Repository Stats & Streak:
+<!-- ### Repository Stats & Streak:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=RafieQt&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=RafieQt" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
 
 <br/>
 
@@ -85,4 +85,4 @@
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RafieQt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
